@@ -18,6 +18,7 @@ nav ul {
     display: flex;
     padding: 0;
     justify-content: flex-start;
+    background-color: lightgreen;
 }
 
 nav ul li {
@@ -37,14 +38,14 @@ nav ul li a:hover {
 
 main {
     display: flex;
-    justify-content: space-around;
+    justify-content: space-between;
     margin: 20px;
     text-align: left;
     padding: 0;
 }
 
 .content{
-    width: 45%;
+    width: 60%;
     padding: 15px;
     background-color: white;
     margin: 20px;
